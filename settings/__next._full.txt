@@ -1,0 +1,32 @@
+1:"/_next/static/chunks/3zca9f9ra5hjf.js"
+2:"LoadingBoundaryProvider"
+3:I[39756,["$1"],"$2"]
+4:"$Sreact.fragment"
+5:I[22016,["$1"],""]
+6:I[39756,["$1"],"default"]
+7:"/_next/static/chunks/1bz2t_0lq-7x-.js"
+8:I[8821,["$1","$7"],"default"]
+9:I[37457,["$1"],"default"]
+a:I[91567,["$1"],"BottomNav"]
+e:I[47257,["$1"],"ClientPageRoot"]
+f:"/_next/static/chunks/1l7xyhky4i96n.js"
+10:"/_next/static/chunks/28_95cxdu-ws7.js"
+11:I[32545,["$1","$f","$10"],"default"]
+14:I[97367,["$1"],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[97367,["$1"],"$17"]
+1a:"MetadataBoundary"
+1b:I[97367,["$1"],"$1a"]
+1d:I[68027,["$1"],"default",1]
+:HL["/_next/static/chunks/1a-zqimhjgm7s.css","style"]
+c:X
+d:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$4","c",{"children":[["$","$Le",null,{"Component":"$11","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@12","$@13"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/1l7xyhky4i96n.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/28_95cxdu-ws7.js","async":true,"nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+b:[["children",{"s":"settings","h":512,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$c"},"c":"$Qd"}]]
+0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":532,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"animate-pulse space-y-4","children":[["$","div",null,{"className":"h-8 w-40 rounded-xl bg-[#eee9e0]"}],["$","div",null,{"className":"h-4 w-64 rounded-lg bg-[#f1ece4]"}],["$","div",null,{"className":"grid grid-cols-3 gap-2","children":[["$","div",null,{"className":"h-20 rounded-2xl bg-white"}],["$","div",null,{"className":"h-20 rounded-2xl bg-white"}],["$","div",null,{"className":"h-20 rounded-2xl bg-white"}]]}],["$","div",null,{"className":"h-40 rounded-3xl bg-white"}],["$","div",null,{"className":"h-40 rounded-3xl bg-white"}]]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1a-zqimhjgm7s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/3zca9f9ra5hjf.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","div",null,{"className":"mx-auto min-h-dvh w-full max-w-3xl px-4 pb-28 pt-5 sm:px-6","children":[["$","header",null,{"className":"no-print mb-6 flex items-center justify-between gap-3","children":[["$","$L5",null,{"href":"/","className":"flex items-center gap-3","children":[["$","span",null,{"className":"flex h-10 w-10 items-center justify-center rounded-2xl bg-[var(--green)] text-lg font-semibold text-white","children":"课"}],["$","span",null,{"className":"leading-tight","children":[["$","span",null,{"className":"block text-[15px] font-semibold text-[var(--ink)]","children":"一人课堂"}],["$","span",null,{"className":"block text-[11px] text-[var(--ink-soft)]","children":"SoloClass · AI 家长报告助手"}]]}]]}],["$","span",null,{"className":"rounded-full bg-[var(--green-soft)] px-3 py-1 text-[11px] font-medium text-[var(--green)]","children":"本地演示 · 免登录"}]]}],["$","main",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$8","errorStyles":[],"errorScripts":[["$","script","script-0",{"src":"/_next/static/chunks/1bz2t_0lq-7x-.js","async":true,"nonce":"$undefined"}]],"template":["$","$L9",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"py-16 text-center","children":[["$","div",null,{"className":"mx-auto flex h-12 w-12 items-center justify-center rounded-2xl bg-[var(--green-soft)] text-xl text-[var(--green)]","children":"?"}],["$","h1",null,{"className":"mt-4 text-xl font-semibold text-[var(--ink)]","children":"没有找到这个页面"}],["$","p",null,{"className":"mt-1 text-sm text-[var(--ink-soft)]","children":"可能是链接过期，或者学生/报告已被删除。"}],["$","$L5",null,{"href":"/","className":"inline-flex items-center justify-center gap-2 font-medium transition-colors disabled:cursor-not-allowed bg-[var(--green)] text-white hover:bg-[#285c44] disabled:bg-[#9bb3a5] h-11 rounded-2xl px-4 text-[15px] mt-5","children":"回工作台"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]]}],["$","$La",null,{}]]}]}]]}]}],"p":false,"v":null},"c":"$Qb"},"h":{"r":["$","$4","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1a-zqimhjgm7s.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"QwpbaFOl3lStkWqC1VA0W"}
+c:C
+12:{}
+13:"$d:0:1:d:r:props:children:0:props:serverProvidedParams:params"
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:null
+1c:[["$","title","0",{"children":"一人课堂 · SoloClass"}],["$","meta","1",{"name":"description","content":"给个体家教老师的 AI 家长报告助手：3 分钟记录，生成家长版学情报告、NVC 沟通话术和下次备课点。"}],["$","meta","2",{"property":"og:title","content":"一人课堂 · SoloClass"}],["$","meta","3",{"property":"og:description","content":"3 分钟记录，生成家长版学情报告、NVC 沟通话术和下次备课点。"}],["$","meta","4",{"property":"og:image","content":"https://zhushenan-jpg.github.io/soloclass-app/og.png"}],["$","meta","5",{"property":"og:image:width","content":"1200"}],["$","meta","6",{"property":"og:image:height","content":"630"}],["$","meta","7",{"property":"og:image:alt","content":"一人课堂"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"一人课堂 · SoloClass"}],["$","meta","10",{"name":"twitter:description","content":"给个体家教老师的 AI 家长报告助手。"}],["$","meta","11",{"name":"twitter:image","content":"https://zhushenan-jpg.github.io/soloclass-app/og.png"}]]
