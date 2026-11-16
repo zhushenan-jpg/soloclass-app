@@ -1,5 +1,5 @@
-:HL["/soloclass-app/_next/static/chunks/1a-zqimhjgm7s.css","style"]
+:HL["/soloclass-app/_next/static/chunks/1i9hf43o7xbe-.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":"new","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"students","h":96,"c":"$Q2"}]]
-0:{"b":"DKo8zGdVjGsFrw7-5Wv1U","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"lZZ0enNlvgC-nrkaLaybk","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
